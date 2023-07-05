@@ -1,4 +1,5 @@
 # Unity Araba Secme Sahnesi
+Unity3D ile yaptığım araba seçme sahnem.
 
 ## Sahne Videosu
-https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7078756351144771585 
+https://github.com/erdiirden/Unity_Araba_Secme/assets/113932351/fd5cf75c-f83c-4cac-92c6-7e06d55ef591
